@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1557265807 source:d:\lucas hulej\tp2\empleados.c
+	"Empleados.h"
+	"utn.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557230243 d:\lucas hulej\tp2\empleados.h
+
+1557230243 d:\lucas hulej\tp2\utn.h
+
+1557265792 source:d:\lucas hulej\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Empleados.h"
+
+1557230243 source:d:\lucas hulej\tp2\utn.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1557266010 source:c:\users\lucas\desktop\tp2new-master\tp2\empleados.c
+	"Empleados.h"
+	"utn.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557266010 c:\users\lucas\desktop\tp2new-master\tp2\empleados.h
+
+1557266010 c:\users\lucas\desktop\tp2new-master\tp2\utn.h
+
+1557266010 source:c:\users\lucas\desktop\tp2new-master\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Empleados.h"
+
+1557266010 source:c:\users\lucas\desktop\tp2new-master\tp2\utn.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
