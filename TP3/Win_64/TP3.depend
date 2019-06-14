@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1559860085 source:d:\lucas hulej\nuevotp3-master\tp3\win_64\employee.c
+	"Employee.h"
+
+1559860085 d:\lucas hulej\nuevotp3-master\tp3\win_64\employee.h
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1559850746 d:\lucas hulej\nuevotp3-master\tp3\win_64\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1559864534 source:d:\lucas hulej\nuevotp3-master\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1559850746 d:\lucas hulej\nuevotp3-master\tp3\win_64\linkedlist.h
+
+1559863816 d:\lucas hulej\nuevotp3-master\tp3\win_64\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+
+1559860434 source:d:\lucas hulej\nuevotp3-master\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1559850746 d:\lucas hulej\nuevotp3-master\tp3\win_64\parser.h
+
+1559850746 source:d:\lucas hulej\nuevotp3-master\tp3\win_64\utn.c
+	"utn.h"
+
+1559866919 source:d:\lucas hulej\nuevotp3-master\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+	"parser.h"
+
+1560537398 source:c:\users\lucas\desktop\2 cuatrimestre tps\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+	"parser.h"
+
+1559867162 c:\users\lucas\desktop\2 cuatrimestre tps\tp3\win_64\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1559867162 c:\users\lucas\desktop\2 cuatrimestre tps\tp3\win_64\linkedlist.h
+
+1560267376 c:\users\lucas\desktop\2 cuatrimestre tps\tp3\win_64\employee.h
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1560537398 c:\users\lucas\desktop\2 cuatrimestre tps\tp3\win_64\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+
+1559867162 c:\users\lucas\desktop\2 cuatrimestre tps\tp3\win_64\parser.h
+
+1560270143 source:c:\users\lucas\desktop\2 cuatrimestre tps\tp3\win_64\employee.c
+	"Employee.h"
+
+1560546942 source:c:\users\lucas\desktop\2 cuatrimestre tps\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1560546843 source:c:\users\lucas\desktop\2 cuatrimestre tps\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1560279553 source:c:\users\lucas\desktop\2 cuatrimestre tps\tp3\win_64\utn.c
+	"utn.h"
+
